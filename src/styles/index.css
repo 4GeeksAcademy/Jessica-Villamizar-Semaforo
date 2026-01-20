@@ -1,11 +1,5 @@
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.on {
+    box-shadow: 10px 10px 30px 51px rgb(253, 245, 2);
+    -webkit-box-shadow: 10px 10px 30px 51px rgba(251, 255, 1, 0.75);
+    -moz-box-shadow: 10px 10px 30px 51px #fbff02;
+}
