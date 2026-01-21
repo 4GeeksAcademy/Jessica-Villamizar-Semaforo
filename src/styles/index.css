@@ -23,5 +23,16 @@
 }
 
 .btn-purple:hover {
-    background-color: purple;
+    background-color: #800080;
+}
+
+body {
+    background: linear-gradient(#f7f9f900, #f7f9f900),url(https://images.adsttc.com/media/images/62cc/3521/c0d4/a362/5a77/fd0d/medium_jpg/las-10-ciudades-mas-grandes-de-latinoamerica-en-20222_1.jpg?1657550121)center center/cover no-repeat fixed;
+
+}
+#footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+  
 }
